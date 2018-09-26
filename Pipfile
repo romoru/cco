@@ -8,6 +8,8 @@ requests = "*"
 lxml = "*"
 selenium = "*"
 Flask = "*"
+"bs4" = "*"
+cssselect = "*"
 
 [dev-packages]
 pylint = "*"
